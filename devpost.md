@@ -6,6 +6,12 @@
 
 Embark on a journey with VoyageHub, a passion project inspired by the challenges faced during travel planning. The idea sprouted from personal struggles with scattered information, inadequate resources, and the need for a unified platform to streamline the entire trip planning process.
 
+**What VoyageHub Does: Enhancing Trip Planning**
+
+VoyageHub is a comprehensive web application designed to simplify and enhance the trip planning experience. It empowers users with features such as accurate weather predictions through a powerful Weather API, intelligent chatbot assistance powered by OpenAI, intuitive split bill calculations, secure user authentication, and insightful data visualization. The aim is to provide a one-stop solution for travelers, making every journey memorable and stress-free.
+
+
+
 **Learning and Growth: A Technical Odyssey**
 
 In the process of building VoyageHub, we delved into the integration of diverse technologies. Leveraging the simplicity of Streamlit, the robustness of Python, and the flexibility of MongoDB, the project evolved into a seamless web application designed to address the multifaceted challenges faced by travelers.
