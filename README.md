@@ -64,7 +64,7 @@ VoyageHub utilizes OpenAI to power its chatbot assistance feature. The OpenAI ke
 
 ### Usage
 
-1. Run the Streamlit app: `streamlit run app.py`
+1. Run the Streamlit app: `streamlit run Home.py`
 2. Access VoyageHub in your web browser.
 
 ## 🤝 Contributing
