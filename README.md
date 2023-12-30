@@ -24,14 +24,6 @@ Check out the live project [here](#).
 
 Embark on your travels with VoyageHub, a user-friendly web app designed for seamless trip planning. From weather predictions to bill splitting, VoyageHub simplifies the complexities of travel.
 
-## ⚙️ Technologies
-
-VoyageHub is built with the following technologies:
-
-- **Streamlit**: A Python library for creating web applications.
-- **Python**: The programming language used for application logic.
-- **MongoDB**: A NoSQL database for storing user details and transactions.
-
 ## 🚀 Features
 
 1. **Weather Prediction**: Plan ahead with accurate weather forecasts from a powerful Weather API.
@@ -43,6 +35,15 @@ VoyageHub is built with the following technologies:
 4. **User Authentication**: Secure your trip details with a login page for registered users.
 
 5. **Data Visualization**: Visualize your spending patterns with interactive pie charts for easy understanding.
+
+
+## ⚙️ Technologies
+
+VoyageHub is built with the following technologies:
+
+- **Streamlit**: A Python library for creating web applications.
+- **Python**: The programming language used for application logic.
+- **MongoDB**: A NoSQL database for storing user details and transactions.
 
 ## 🚀 Getting Started
 
