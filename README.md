@@ -8,7 +8,7 @@ Welcome to VoyageHub, your ultimate travel companion! VoyageHub is a feature-ric
 
 ## 🌐 Hosted Project
 
-Check out the live project [here](https://lalitha-portfolio.netlify.app/).
+Check out the live project [here](#).
 
 ## 📋 Table of Contents
 
