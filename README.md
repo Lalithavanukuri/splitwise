@@ -18,6 +18,7 @@ Check out the live project [here](https://voyageapp.streamlit.app/).
 - [Getting Started](#-getting-started)
 - [Usage](#-usage)
 - [Contributing](#-contributing)
+- - [Demo](#-demo)
 
 ## 🎉 Introduction
 
@@ -77,5 +78,8 @@ VoyageHub integrates a powerful Weather API to offer accurate and real-time weat
 
 We welcome contributions! Feel free to open issues, submit pull requests, or suggest new features. Every contribution makes VoyageHub better for the community.
 
+## 🎥 Demo
+
+Watch the demo on YouTube [here](https://www.youtube.com/watch?v=iluWVK2MMOs&feature=youtu.be).
 
 Happy travels with VoyageHub! 🌟
