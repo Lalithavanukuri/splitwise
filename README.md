@@ -18,7 +18,7 @@ Check out the live project [here](https://voyageapp.streamlit.app/).
 - [Getting Started](#-getting-started)
 - [Usage](#-usage)
 - [Contributing](#-contributing)
-- - [Demo](#-demo)
+- [Demo](#-demo)
 
 ## 🎉 Introduction
 
