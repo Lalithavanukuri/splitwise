@@ -18,7 +18,6 @@ Check out the live project [here](https://voyageapp.streamlit.app/).
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎉 Introduction
 
@@ -35,6 +34,8 @@ Embark on your travels with VoyageHub, a user-friendly web app designed for seam
 4. **User Authentication**: VoyageHub's User Authentication system ensures the security of trip details. Registered users can access personalized features, store preferences, and receive tailored recommendations for their journeys.
 
 5. **Data Visualization**: VoyageHub leverages data visualization techniques to create interactive pie charts. Gain deep insights into your spending patterns and previous transactions, making financial tracking and planning easier.
+   
+
 
 ## ⚙️ Technologies
 
@@ -54,6 +55,11 @@ MongoDB, a NoSQL database, efficiently stores user details and transactions, ens
 
 VoyageHub utilizes OpenAI to power its chatbot assistance feature. The OpenAI key enhances the chatbot's capabilities, providing users with instant and intelligent responses to trip-related queries.
 
+### Weather API
+
+VoyageHub integrates a powerful Weather API to offer accurate and real-time weather forecasts. Plan your trip with confidence, knowing the weather conditions at your destination.
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -71,8 +77,5 @@ VoyageHub utilizes OpenAI to power its chatbot assistance feature. The OpenAI ke
 
 We welcome contributions! Feel free to open issues, submit pull requests, or suggest new features. Every contribution makes VoyageHub better for the community.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Happy travels with VoyageHub! 🌟
