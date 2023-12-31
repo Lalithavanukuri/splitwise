@@ -8,7 +8,7 @@ Welcome to VoyageHub, your ultimate travel companion! VoyageHub is a streamlined
 
 ## 🌐 Hosted Project
 
-Check out the live project [here](#).
+Check out the live project [here](https://voyageapp.streamlit.app/).
 
 ## 📋 Table of Contents
 
