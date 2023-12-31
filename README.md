@@ -4,7 +4,7 @@ Welcome to VoyageHub, your ultimate travel companion! VoyageHub is a streamlined
 
 ## 🚀 Overview
 
-[VoyageHub](#) is built on Streamlit, offering a seamless integration of features to enhance your journey. From accurate weather predictions to intuitive bill splitting, VoyageHub has you covered.
+VoyageHub is built on Streamlit, offering a seamless integration of features to enhance your journey. From accurate weather predictions to intuitive bill splitting, VoyageHub has you covered.
 
 ## 🌐 Hosted Project
 
@@ -12,12 +12,12 @@ Check out the live project [here](https://voyageapp.streamlit.app/).
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Technologies](#-technologies)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
 
 ## 🎉 Introduction
 
